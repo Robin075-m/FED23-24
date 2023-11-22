@@ -10,20 +10,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-## Jij
+## Robin Yildiz
 
-<details open>
+<details closed>
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
-
+  Robin Yildiz
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
-
+  Rood
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
- 
+  Surface plane 
 </details>
 
 
