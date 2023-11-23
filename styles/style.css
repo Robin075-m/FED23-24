@@ -15,8 +15,8 @@
 /*********************/
 :root {
 	/* startje */
-	--color-text:#111;
-	--color-background:#eee;
+	--color-text:rgb(252, 251, 251)fff;
+	--color-background:#131313;
 }
 
 
@@ -28,14 +28,6 @@
 /****************/
 
 /* jouw code */
-
-body {
-	font-family: Arial, sans-serif;
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-	background-color: darkgrey;
-}
 
 main {
 	width: 80%;
