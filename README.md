@@ -12,7 +12,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Robin Yildiz
 
-<details closed>
+<details>
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
@@ -29,7 +29,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Je website
 
-<details open>
+<details>
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
@@ -95,8 +95,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   | Thomas                              | Robin | Abdenour | student 4        |
   | ---                                 | ---                | ---          | ---              |
-  | -SVG, PNG, AVIF                     | en dit     | en ik dit    | en dan ik dat    |
-  | Meer namaak of meer toegankelijk?   | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | -SVG, PNG, AVIF                     | Narrator | en ik dit    | en dan ik dat    |
+  | Meer namaak of meer toegankelijk?   | css/js animatie | nog een punt | dit wil ik zeker |
   | background color over hele breedte  | ...                | ...          | ...              |
 
 
