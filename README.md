@@ -40,7 +40,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/home-mobile.png" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  About pagina  
   <img src="readme-images/about-mobile.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
@@ -53,7 +53,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  In de test kwam naar voren dat de toegankelijk heid wellicht door de animaties
+  teveel op het verkeerde gericht was. De volgorde van de reader was niet correct en werd soms overgeslagen
+  en zelfs vervangen door iets heel anders.
 
 </details>
 
@@ -91,11 +93,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Thomas                              | Robin | Abdenour | student 4        |
+  | ---                                 | ---                | ---          | ---              |
+  | -SVG, PNG, AVIF                     | en dit     | en ik dit    | en dan ik dat    |
+  | Meer namaak of meer toegankelijk?   | dit als er tijd is | nog een punt | dit wil ik zeker |
+  | background color over hele breedte  | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
