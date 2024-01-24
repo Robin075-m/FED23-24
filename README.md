@@ -33,11 +33,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  <a href="https://www.bramnaus.com/">Bramnaus Portfolio</a>
+  <a href="https://www.bramnaus.com/](https://basketballscool.nl/">Basketballscool</a>
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home Pagina 
-  <img src="readme-images/home-mobile.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/desktop.png" width="375px" alt="Homepagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   About pagina  
