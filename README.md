@@ -37,7 +37,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home Pagina 
-  <img src="readme-images/desktop.png" width="375px" alt="Homepagina">
+  <img src="readme-images/dekstop.png" width="375px" alt="Homepagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   About pagina  
